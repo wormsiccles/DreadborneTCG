@@ -18,6 +18,7 @@ Additional sets may include the following:
 ### Accesibility
 There are no current plans for a physical version of the game, but there will be plans for the following:
 - A dedicated Discord server for playtesting and card ideas.
-- A dedicated Discord bot to play the game using [timswyzen's TCG bot](timswyzen/discordTCG).
+- A dedicated Discord bot to search every card and their information.
+- A dedicated Discord bot to play the game.
 - An alternate way for users to play the game.
-  - Most likely [untap.in](www.untap.in).
+  - Most likely [screentop.gg](https://screentop.gg/) or some other virtual tabletop that supports TCGs.

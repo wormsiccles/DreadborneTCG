@@ -24,8 +24,13 @@ Additional sets may include the following:
 - The School
 - The Hospital
   - An add on for the Asylum.
-- The Graveyard
-  - An add on for the Manor.
+- Manor Add Ons
+  - The Graveyard
+  - The Kitchen
+  - The Attic
+  - The Basement
+  - The Garden
+  - The Laboratory
 - The Mall
   - The Pet Shop
   - The Food Court
